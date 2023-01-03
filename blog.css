@@ -12,3 +12,11 @@ header{
     background-position: center ;
     background-blend-mode: multiply;
 }
+.that{
+    color: #0b3a35;
+    text-align: center;
+}
+.that p{
+    color: #e22b2b;
+    text-align: left;
+}
