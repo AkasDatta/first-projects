@@ -1,0 +1,14 @@
+h3{
+    color: magenta;
+}
+p{
+    color: blue;
+}
+header{
+    height: 200px;
+    background-image: url(img/footer-img.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-blend-mode: multiply;
+}
